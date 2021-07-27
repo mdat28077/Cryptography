@@ -1,5 +1,8 @@
 Step 1: Extracting file. 
+
 Step 2: Opening file *.sln by Visual Studio.
+
+Enjoy!
 
 Dashboard's Image
 
