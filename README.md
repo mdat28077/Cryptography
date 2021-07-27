@@ -1,1 +1,1 @@
-Extract file and then open with Visual Studio 
+Extracting file and then opening file *.sln by Visual Studio 
