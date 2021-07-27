@@ -1,4 +1,5 @@
-Extracting file and then opening file *.sln by Visual Studio
+Step 1: Extracting file. 
+Step 2: Opening file *.sln by Visual Studio.
 
 Dashboard's Image
 
